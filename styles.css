@@ -1,0 +1,36 @@
+.header{ 
+    text-align:center;
+}
+h1 { border:solid red 10px;
+padding:5px;
+margin:5px;
+}
+.img {
+    display:flex;  
+}
+img {
+    width:250px;
+    height:350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
