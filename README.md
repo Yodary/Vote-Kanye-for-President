@@ -1,1 +1,0 @@
-# Vote-Kanye-for-President
